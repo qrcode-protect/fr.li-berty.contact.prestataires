@@ -1,6 +1,6 @@
 {
-    "name": "libertyrestaurant",
-    "short_name": "libertyrestaurant",
+    "name": "liberty_web_info",
+    "short_name": "liberty_web_info",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
